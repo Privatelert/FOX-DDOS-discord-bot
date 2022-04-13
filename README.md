@@ -24,7 +24,7 @@ Screenshots:
 
 
 
-VIDEO: 🛑 Soon... 🛑
+VIDEO: 🛑 https://youtu.be/QuF9gBnn9e4 🛑
 
 
 ⚠️The bot costs 400 rubles!!!!⚠️
