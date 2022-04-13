@@ -1,10 +1,10 @@
 # FOX-DDOS
 Discord DDos bot Maincraft
 
-Minecraft ddos ​​bot sources for money
+Minecraft ddos ​​bot sources for money:
 
 
-https://github.com/Privatelert/FOX-DDOS-discord-bot/blob/main/Screenshot_20220413-133742~2.png
+![Alt text](https://github.com/Privatelert/FOX-DDOS-discord-bot/blob/main/Screenshot_20220413-133742~2.png "Optional title")
 
 
 
@@ -17,3 +17,9 @@ If you buy a bot you will get:
 
 
 Screenshots:
+
+
+
+
+
+VIDEO:
