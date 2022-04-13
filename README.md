@@ -4,7 +4,7 @@ Discord DDos bot Maincraft
 Minecraft ddos ​​bot sources for money
 
 
-https://yapx.ru/v/Rrkr1
+https://github.com/Privatelert/FOX-DDOS-discord-bot/blob/main/Screenshot_20220413-133742~2.png
 
 
 
@@ -13,3 +13,7 @@ If you buy a bot you will get:
 ✅ VDS for free as a gift
 ✅ Bot sources
 ✅FULL BOT SETUP
+
+
+
+Screenshots:
