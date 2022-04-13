@@ -17,9 +17,15 @@ If you buy a bot you will get:
 
 
 Screenshots:
+![Alt text](https://github.com/Privatelert/FOX-DDOS-discord-bot/blob/main/Screenshot_2022-04-12-16-08-29-031_com.google.android.youtube.jpg "Optional title")
+
+
+![Alt text](https://github.com/Privatelert/FOX-DDOS-discord-bot/blob/main/Screenshot_2022-04-12-16-08-29-031_com.google.android.youtube.jpg "Optional title")
 
 
 
+VIDEO: 🛑 Soon... 🛑
 
 
-VIDEO:
+⚠️The bot costs 400 rubles!!!!⚠️
+⚠️Payment only: Qiwi⚠️
